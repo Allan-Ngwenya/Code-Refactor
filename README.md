@@ -24,9 +24,9 @@ engagement. Their website has been refactored to make it more user friendly, eas
 
 ## Hosting
 
-| Project                           | Home Page URL                                |
-|-----------------------------------|----------------------------------------------|
-| Horiseon Social Solution Services | <>                                           |
+| Project                           | Home Page URL                                    |
+|-----------------------------------|--------------------------------------------------|
+| Horiseon Social Solution Services | <https://allan-ngwenya.github.io/Code-Refactor/> |
 
 
 ## Contributers
